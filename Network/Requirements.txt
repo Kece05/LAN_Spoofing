@@ -1,0 +1,40 @@
+To run the script, you need the following requirements:
+
+1. Packages:
+   - socket
+   - scapy
+   - mac_vendor_lookup
+   - os
+   - re
+   - argparse
+   - time
+   - sys
+
+   You can install these packages using pip:
+   pip3 install scapy mac-vendor-lookup
+  
+You'll also need administrative privileges in order to run this file
+
+2. Warnings:
+Ensure that you understand the implications of running this script. ARP spoofing can be malicious if used without proper authorization. Make sure you have the necessary permissions and legal rights to perform ARP spoofing on the target network.
+
+Usage:
+1. Import the required packages:
+   ```python
+   import socket
+   import scapy.all as scapy
+   from mac_vendor_lookup import MacLookup
+   import os
+   import re
+   from scapy.all import Ether, ARP, srp, send
+   import argparse
+   import time
+   import sys
+   ```
+
+2. Define the `get_ip` function and other necessary functions.
+
+3. Execute the script(On Terminal):
+sudo python3 LAN_Spoof.py
+
+Ensure that you have the necessary permissions and understand the consequences before running this script.
