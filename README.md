@@ -64,7 +64,7 @@ You can install the required packages using the following command:
 
 - Always verify device details through other means for critical assessments.
 
-##ideas
+## Ideas
 - Create Bluetooth Attacks(BlueSmarfing, Bluesnarfing, Bluebugging)(Very difficult on MacOS)
 - Network mapping
 - Support Different Platforms
