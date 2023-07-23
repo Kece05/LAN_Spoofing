@@ -9,6 +9,7 @@ FloodLAN is a Python script that allows you to scan your local area network for 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Disclaimer](#disclaimer)
+- [Future Ideas](#ideas)
 
 ## Features
 
@@ -62,3 +63,10 @@ You can install the required packages using the following command:
 - Some devices may have custom MAC addresses, leading to unidentified results. Use this information as a reference but not as the sole basis for device identification.
 
 - Always verify device details through other means for critical assessments.
+
+##ideas
+- Create Bluetooth Attacks(BlueSmarfing, Bluesnarfing, Bluebugging)(Very difficult on MacOS)
+- Network mapping
+- Support Different Platforms
+- Port Scanning
+- Vulnerability Wifi Scanning
