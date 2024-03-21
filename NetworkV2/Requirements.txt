@@ -38,7 +38,7 @@ Usage:
 2. Define the `get_ip` function and other necessary functions.
 
 3. Execute the script(On Terminal):
-sudo python3 LAN_Spoof.py
+sudo python3 FloodLan.py
 
 Ensure that you have the necessary permissions and understand the consequences before running this script.
 
